@@ -1,2 +1,2 @@
 # FLIGHT-PRICE
-ml
+Introducing a groundbreaking innovation in travel planning: a state-of-the-art Flight Price Prediction Model powered by cutting-edge Machine Learning technology. This remarkable tool revolutionizes the way we approach booking flights, offering accurate and insightful forecasts for airfare trends. By harnessing the power of data-driven algorithms, this model empowers travelers to make informed decisions, potentially saving both time and money. In this era of dynamic ticket pricing, our Flight Price Prediction Model stands as a beacon of efficiency, providing users with a valuable resource for optimizing their travel plans. Join us in ushering in a new era of hassle-free and cost-effective air travel!
